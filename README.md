@@ -24,3 +24,4 @@ https://github.com/NANA-2016/PROJECT-2C/issues/10#issue-1884997120
 
 https://github.com/NANA-2016/PROJECT-2C/issues/11#issue-1885001728
 
+https://github.com/NANA-2016/PROJECT-2C/issues/12#issue-1885012276
