@@ -15,3 +15,5 @@ https://github.com/NANA-2016/PROJECT-2C/issues/5#issue-1884920453
 https://github.com/NANA-2016/PROJECT-2C/issues/6#issue-1884950724
 
 https://github.com/NANA-2016/PROJECT-2C/issues/7#issue-1884965799
+
+https://github.com/NANA-2016/PROJECT-2C/issues/8#issue-1884968584
